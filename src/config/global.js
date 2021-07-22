@@ -142,12 +142,12 @@ export default {
       },
     ],
     subMenu: [
-      {
-        nombreRuta: 'actividad',
-        icono: 'far fa-question-circle',
-        titulo: 'Actividad didáctica',
-        desarrolloContenidos: true,
-      },
+      //{
+      //  nombreRuta: 'actividad',
+      //  icono: 'far fa-question-circle',
+      //  titulo: 'Actividad didáctica',
+      //  desarrolloContenidos: true,
+      //},
       {
         nombreRuta: 'glosario',
         icono: 'fas fa-sort-alpha-down',
@@ -177,135 +177,193 @@ export default {
   },
   referencias: [
     {
+      referencia: 'Audaces. (2015). Sala de corte [video]. YouTube.',
+      link: 'https://youtu.be/tJyb68g_H0M',
+    },
+    {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA: ',
+        'Cámara de Comercio de Medellín para Antioquia. (2017). Clúster Textil / Confección, Diseño y Moda.  Manual de uso. Primera edición.',
+    },
+    {
+      referencia:
+        'Ceb Metalmecánica SAS. (2018). Instructivo extendedora de tela [video]. YouTube.',
+      link: 'https://youtu.be/NYypQR3FceU',
+    },
+    {
+      referencia:
+        'FKlatinoamérica. (2017). Tendedora de tela automática [video]. YouTube.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'https://www.youtube.com/watch?v=J0Zq8rHcPeQ&ab_channel=FKlatinoamerica',
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA: ',
+        'Ley 1562 de 2012. Por la cual se modifica el Sistema de Riesgos Laborales y se dictan otras disposiciones en materia de Salud Ocupacional. Julio 11 de 2012.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+        'https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=48365',
     },
     {
       referencia:
-        'Harpersbazaar. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
+        'MinSalud. (2017). Programa de elementos de protección personal, uso y mantenimiento. MinSalud.',
+    },
+    {
+      referencia: 'PIZANTEX. (2014). Procesos de trazo y corte. PIZANTEX.',
     },
     {
       referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
+        'Resolución 6045 de 2014. [El Ministro del Trabajo]. Por la cual se adopta el Plan Nacional de Seguridad y Salud en el Trabajo 2013-2021. Diciembre 30 de 2014.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
+        'https://www.mintrabajo.gov.co/documents/20147/45099/Resolucion06045_Mintrabajo_2.pdf/2135dd03-f30f-caa7-111f-e9f21f898f61',
     },
     {
       referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA. ',
-    },
-    {
-      referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
+        'Rivero, E. (2017). Curso de Corte y confección: seguridad e higiene en el trabajo [video]. YouTube.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
+        'https://www.youtube.com/watch?v=mbJvti9qHOU&ab_channel=ErnestoRivero',
     },
     {
       referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
+        'SENA. (s.f.). Almacenamiento de telas. Centro en Manufactura Textil y Cuero - Regional Distrito Capital.',
     },
     {
       referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
+        'SENA. (s.f.).  Confecciones Industriales. Aspectos generales del departamento de control de calidad. Subdirección técnico-pedagógica.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'https://repositorio.sena.edu.co/bitstream/handle/11404/4251/3816_aspectos_generales_del_control_de_calidad.pdf?sequence=1&isAllowed=y',
+    },
+    {
+      referencia:
+        'SENA Red Producción de Contenidos Grupo Gestión Curricular. (2021). Características del material desde trazo y corte [video]. YouTube.',
+      link: 'https://youtu.be/Ul-AmX5ioxQ',
+    },
+    {
+      referencia:
+        'SENA Red Producción de Contenidos Grupo. (2021).  Ejemplo de tipos de tendido con diferentes características del material [video]. YouTube.',
+      link:
+        'https://www.youtube.com/watch?v=AQuKp0yivEw&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
+      termino: 'Mipymes',
       significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+        'Es el acrónimo o sigla que se utiliza para nombrar o referirse a las micro, pequeñas y/o medianas empresas.',
     },
     {
-      termino: 'Suftware',
+      termino: 'Piquete',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Perforación en los costados de los moldes o patrones, que sirven como guías para ensamblar piezas o puntos de referencia para posicionar sobrepuestos.',
     },
     {
-      termino: 'Pirognóstico',
+      termino: 'Prendas de segunda',
       significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+        'Se les denomina así a esas prendas que no cumplen con el 100% de especificaciones esperadas por el cliente.',
     },
     {
-      termino: 'Áectores',
+      termino: 'Simetría',
       significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
+        'Relación de relación, forma, tamaño, líneas o figuras, con puntos de referencia nombrados como patrones.',
     },
     {
-      termino: 'Moda',
+      termino: 'Software',
       significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
+        'Parte intangible de un sistema o sistemas, que mediante rutinas permite realizar tareas.',
     },
     {
-      termino: 'Diseño',
-      significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+      termino: 'TIC',
+      significado: 'Tecnologías de la Información y la Comunicación.',
     },
     {
-      termino: 'Tipología',
+      termino: 'Tiempo estándar',
       significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
+        'Cantidad de tiempo que se utiliza realizando una actividad en condiciones de ejecución normales.',
     },
     {
-      termino: 'Bidimensional',
+      termino: 'Tolerancia',
       significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
+        'Cantidad de unidad de medida permisible para exceder la especificación o norma, por exceso o por defecto.',
     },
     {
-      termino: 'Interés Inferior del menor',
+      termino: 'Urdimbre',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interseccionalidad',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interés superior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Conjunto de hilos que se colocan en el telar paralelamente unos a otros para formar una tela.',
     },
   ],
   complementario: [
     {
       texto:
-        'BIC., (2015). “2 minutos para entender el desarrollo sostenible – Spanish”',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'SENA. (s.f.). Almacenamiento de telas. Centro en Manufactura Textil y Cuero - Regional Distrito Capital.',
+      tipo: 'PDF ',
+      descarga: '/downloads/Anexo2_Almacenamiento_de_telas_y_sus_cuidados.pdf',
     },
     {
       texto:
-        'Arnold, M. y Osorio, F., (1998). Introducción a los conceptos básicos de la Teoría general de sistemas. Cinta moebio 3: 40-49',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
+        'SENA. (s.f.).  Confecciones Industriales. Aspectos generales del departamento de control de calidad. Subdirección técnico-pedagógica.',
+      tipo: 'Libro',
+      link:
+        'https://repositorio.sena.edu.co/bitstream/handle/11404/4251/3816_aspectos_generales_del_control_de_calidad.pdf?sequence=1&isAllowed=y',
     },
     {
       texto:
-        'Balboa, C. y Dominguez, M. (2014). Economía circular como marco para el ecodiseño: el modelo ECO-3. Informador Técnico (Colombia) Volumen 78, No. 1. Pág. 52-90.',
-      tipo: 'Artículo científico',
-      link: 'https://www.google.com/',
-    },
-    {
-      texto: 'Economía de Rosquilla. (s.f.).',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
-    },
-    {
-      texto: '2 minutos para entender el desarrollo sostenible – Spanish',
+        'Rivero, E. (2017). Curso de Corte y confección: seguridad e higiene en el trabajo [video]. YouTube.',
       tipo: 'Video',
-      link: 'https://www.google.com/',
+      link:
+        'https://www.youtube.com/watch?v=mbJvti9qHOU&ab_channel=ErnestoRivero',
+    },
+    {
+      texto:
+        'SENA Red Producción de Contenidos Grupo. (2021).  Ejemplo de tipos de tendido con diferentes características del material [video]. YouTube.',
+      tipo: 'Video',
+      link:
+        'https://www.youtube.com/watch?v=AQuKp0yivEw&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA',
+    },
+    {
+      texto: 'Audaces. (2015). Sala de corte [video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://youtu.be/tJyb68g_H0M',
+    },
+    {
+      texto:
+        'Ceb Metalmecánica SAS. (2018). Instructivo extendedora de tela [video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://youtu.be/NYypQR3FceU',
+    },
+    {
+      texto:
+        'Ley 1562 de 2012. Por la cual se modifica el Sistema de Riesgos Laborales y se dictan otras disposiciones en materia de Salud Ocupacional. Julio 11 de 2012.',
+      tipo: 'ley',
+      link:
+        'https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=48365',
+    },
+    {
+      texto:
+        'Resolución 6045 de 2014. [El Ministro del Trabajo]. Por la cual se adopta el Plan Nacional de Seguridad y Salud en el Trabajo 2013-2021. Diciembre 30 de 2014.',
+      tipo: 'Resolución',
+      link:
+        'https://www.mintrabajo.gov.co/documents/20147/45099/Resolucion06045_Mintrabajo_2.pdf/2135dd03-f30f-caa7-111f-e9f21f898f61',
+    },
+    {
+      texto:
+        'MinSalud. (2017). Programa de elementos de protección personal, uso y mantenimiento. MinSalud.',
+      tipo: 'pdf',
+      descarga: '/downloads/Anexo3_Elementos_de_protección_Personal.pdf',
+    },
+    {
+      texto: 'PIZANTEX. (2014). Procesos de trazo y corte. PIZANTEX.',
+      tipo: 'PDF ',
+      link: '/downloads/Anexo1_PISANTEX_TRAZO_Y_CORTE.pdf',
+    },
+    {
+      texto:
+        'FKlatinoamérica. (2017). Tendedora de tela automática [video]. YouTube.',
+      tipo: 'Video',
+      link:
+        'https://www.youtube.com/watch?v=J0Zq8rHcPeQ&ab_channel=FKlatinoamerica',
+    },
+    {
+      texto:
+        'SENA Red Producción de Contenidos Grupo Gestión Curricular. (2021). Características del material desde trazo y corte [video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://youtu.be/Ul-AmX5ioxQ',
     },
   ],
   creditos: {

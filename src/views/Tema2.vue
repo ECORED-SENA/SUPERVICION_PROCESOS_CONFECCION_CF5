@@ -8,7 +8,7 @@
         span 2
       h1 Trazo
     
-    .row.justify-content-center.mb-4
+    .row.justify-content-center.mb-5
       .col-lg-10.mb-4.mb-lg-0
         .bloque-texto-g.color-light-orange.p-3.p-sm-4.p-md-5.mb-4
           .bloque-texto-g__img(
@@ -38,8 +38,7 @@
     #t_2_1.titulo-segundo
       .h4 2.1 Sistemas para elaborar trazos
     
-    p.mb-4 El trazo como proceso fundamental de la manufactura textil define la ruta a seguir en relación con el método, el cálculo de tiempo y los materiales; durante mucho tiempo y en determinadas producciones se usa este proceso de forma manual, pero con el aumento de la producción en masa y aprovechando los adelantos tecnológicos aparecen escenarios de automatización del proceso, generando nuevas opciones como  se puede ver a continuación.
-
+    p.mb-5 El trazo como proceso fundamental de la manufactura textil define la ruta a seguir en relación con el método, el cálculo de tiempo y los materiales; durante mucho tiempo y en determinadas producciones se usa este proceso de forma manual, pero con el aumento de la producción en masa y aprovechando los adelantos tecnológicos aparecen escenarios de automatización del proceso, generando nuevas opciones como  se puede ver a continuación.
     
     .row.justify-content-center.mb-4
       .col-md-10.mb-4.mb-md-0
@@ -98,7 +97,7 @@
                 .anexo__icono
                   img(src="@/assets/template/icono-pdf.svg")
                 .anexo__texto
-                  p Anexo. Procesos de trazo y corte Pizantex
+                  p Procesos de trazo y corte Pizantex
 
     separador
     #t_2_2.titulo-segundo
@@ -190,7 +189,7 @@
     .row.justify-content-center.mb-4
       .col-md-6.mb-4.mb-md-0
         .tarjeta-avatar
-          img(src='@/assets/curso/tema2/img18.png' alt='AvatarTop')
+          img.iconH(src='@/assets/curso/tema2/img18.png' alt='AvatarTop')
           .tarjeta.color-light-gray.p-4
             p De acuerdo con los presupuestos de ventas que hay que satisfacer deben ser calculadas las áreas de trazo, corte y costura; si por alguna razón la capacidad instalada propia no cumple con esos requisitos de satisfacer la demanda se procederá a contratar servicios de trazo y corte con terceros.
 
@@ -302,6 +301,10 @@
             p Almacenamiento inadecuado
           img(src='@/assets/curso/tema2/img26.png')
         .col-md-7.mb-4.mb-md-0
+          br
+          br
+          br
+          br
           p.mb-4 A las telas blancas hay que darles un tratamiento especial de ubicación. De acuerdo con las consideraciones que se le dé al manejo de las materias primas se puede contar con unos materiales en estado óptimo para ser trabajados de manera acertada y con el mejor aprovechamiento, evitando despilfarros o problemas de deterioro y, que después no se puedan utilizar como se desea.
           p Deben estar los materiales muy bien identificados con su ubicación para que sean accesibles de manera rápida, y con criterios de tener desplazamientos menores.
       .row.justify-content-center.p-4
@@ -311,6 +314,9 @@
             p Bodega de telas
           img(src='@/assets/curso/tema2/img27.png')
         .col-md-7.mb-4.mb-md-0
+          br
+          br
+          br
           .h4  Recomendaciones generales para el almacenamiento
           ul.lista-ul
             li 

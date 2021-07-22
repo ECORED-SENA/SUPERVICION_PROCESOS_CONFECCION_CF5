@@ -28,9 +28,9 @@
               p Extendido de tela
             img(src='@/assets/curso/tema4/img03.png')
 
-      .h4 Cuidados durante la extendida
-      p.mb-4 Hay muchas consideraciones que hay que tener en cuenta al momento de realizar la labor de extendida, y en el tema de producción se abordarán las más relevantes.
-      .col-lg-10.mb-4
+        .h4 Cuidados durante la extendida
+        p.mb-4 Hay muchas consideraciones que hay que tener en cuenta al momento de realizar la labor de extendida, y en el tema de producción se abordarán las más relevantes.
+        .col-lg-10.mb-4
         .row.mb-4
           .col-lg-4.mb-4.mb-lg-0
             figure.mb-4
@@ -97,7 +97,7 @@
             img(src='@/assets/curso/tema4/img10.svg')
 
     p.mb-4 Para complementar la información se recomienda ver los siguientes videos, de esta manera podrá:
-    .row.mb-4
+    .row.mb-5
       .col-md-5.mb-4.mb-md-0
         .tarjeta.color-light-orange.p-4
           p.mb-4 Conocer el paso a paso para la realización del extendido de tela manual.

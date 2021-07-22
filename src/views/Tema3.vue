@@ -56,6 +56,7 @@
           
           .h4 Capacidad instalada de área
           p.mb-4 Uno de los elementos a tener en cuenta para calcular la capacidad de unidades que se pueden cortar es conocer el área que se dispone para realizar las actividades de trazo y corte. Dimensionar esa área ayuda a distribuir los puestos de trabajo.
+          p.mb-4 Para establecer esta capacidad de producción por m2 es importante:
 
           .tarjeta.tarjeta--azul.p-4.mb-5
             SlyderA
@@ -154,8 +155,8 @@
                   .col-md-1
                     p.fst-italic CI=
                   .col-md-4
-                    p.fst-italic.text-decoration-underline.text-center N° de operaciones*horas de trabajo
-                    p.fst-italic.text-center Estándar de trabajo
+                    p.fst-italic.text-decoration-underline.text-center.mb-0 N° de operaciones*horas de trabajo
+                    p.fst-italic.text-center.mb-0 Estándar de trabajo
           
           p.mb-4 A continuación, un ejemplo de una sección que tiene 5 operarios que trabajan 8 horas diarias y, la sumatoria de estándar de las operaciones a realizar suma 4 minutos.
 
@@ -163,13 +164,13 @@
           .row.mb-4
             .col-md-5
               .tarjeta.color-light-orange.p-4
-                p
+                p.mb-0
                   strong No. de operarios = 
                   | 5
-                p
+                p.mb-0
                   strong  Horario de trabajo diario = 
                   | 480 minutos
-                p
+                p.mb-0
                   strong Duración de la actividad = 
                   | 4 minutos
             .col-md-3.d-flex
@@ -178,8 +179,8 @@
                   .col-md-1
                     p.fst-italic CI=
                   .col-md-5
-                    p.fst-italic.text-decoration-underline.text-center 5 x 480
-                    p.fst-italic.text-center 4
+                    p.fst-italic.text-decoration-underline.text-center.mb-0 5 x 480
+                    p.fst-italic.text-center.mb-0 4
                   .col-md-5
                     p.fst-italic = 600
           
@@ -244,7 +245,7 @@
                     .h4 Tiqueteado
                     p.mb-4 Consiste en colocar adhesivos a las piezas ya cortadas, el adhesivo lleva información importante como # corte, talla, consecutivo, entre otros, y ayuda a identificar operaciones y ubicación de lotes; es fundamental para el seguimiento de la producción en la planta, igualmente, facilita al momento de ensamblar  las piezas que las prendas de vestir no presenten tonalidades, y de esta manera evitar en las plantas de producción que se mezclen  los diferentes lotes de producción, cobrando importancia este proceso en la cadena de producción. Un ejemplo a continuación:
                   .col-md-3.mb-4.mb-md-0
-                    .titulo-sexto.color-acento-contenido
+                    .titulo-sexto.color-acento-contenido.mb-2
                       h5 Figura 10
                       p Tiqueteado
                     img(src='@/assets/curso/tema3/img19.png')
