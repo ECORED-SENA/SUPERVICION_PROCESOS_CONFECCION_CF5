@@ -191,7 +191,7 @@
             | Cálculo de capacidad instalada diaria
           
           .row.mb-4
-            .col-md-9.mb-4.mb-md-0
+            .col-md-12.mb-4.mb-md-0
               .tabla-b.color-acento-contenido.mb-5
                 table
                   thead

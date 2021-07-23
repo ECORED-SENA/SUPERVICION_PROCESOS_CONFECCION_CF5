@@ -93,7 +93,7 @@
             .col-md-7.mb-4.mb-md-0
               p.mb-4 Para conocer cómo realizar un proceso de trazo y corte consulte el siguiente documento:
             .col-md-4.mb-4.mb-md-0
-              a.anexo.mb-4(:href="obtenerLink('/downloads/Anexo1_PISANTEX_TRAZO_Y_CORTE.pdf')" target="_blank")
+              a.anexo.mb-4(:href="obtenerLink('/downloads/Anexo1_pisantex_trazo_y_corte.pdf')" target="_blank")
                 .anexo__icono
                   img(src="@/assets/template/icono-pdf.svg")
                 .anexo__texto

@@ -350,7 +350,7 @@ export default {
     {
       texto: 'PIZANTEX. (2014). Procesos de trazo y corte. PIZANTEX.',
       tipo: 'PDF ',
-      link: '/downloads/Anexo1_PISANTEX_TRAZO_Y_CORTE.pdf',
+      link: '/downloads/Anexo1_pisantex_trazo_y_corte.pdf',
     },
     {
       texto:

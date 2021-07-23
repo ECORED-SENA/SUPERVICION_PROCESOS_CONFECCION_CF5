@@ -69,46 +69,48 @@
               p.mb-4 En el área de trazo y corte se utiliza una serie de máquinas y herramientas propias para ese fin, unas con más nivel de tecnología que otras, entre ellas, unas diseñadas para grandes volúmenes y otras para pequeños lotes de producción.
               p.mb-4 Las más frecuentemente utilizadas son las siguientes:
 
-              .tarjeta-avatar-b.mb-4
-                img.iconV(src='@/assets/curso/tema5/img08.png' alt='AvatarTop')
-                .tarjeta.color-acento-contenido-punteado.p-0
-                  .row.p-0
-                    .col-2
-                    .col-lg-10.mb-4
-                      .tarjeta.color-acento-contenido-punteado.p-0
-                        .tarjeta.color-acento-contenido.p-3
-                          .h4.text-white Cortadoras de cuchilla vertical
-                  .row.justify-content-center
-                    .col-lg-10.mb-4
-                      p.mb-4 Máquina eléctrica, provista de una cuchilla ubicada de manera vertical, que al activarla realiza un movimiento perpendicular y que le permite al empujarla avanzar, cortando las telas extendidas y permitiendo que las piezas queden sueltas para clasificarlas, y luego pasar a ensamblarlas, esta viene provista de unas cintas afiladoras que son intercambiables y que sirven al activarlas, para mantener la capacidad de corte en óptimas condiciones.
-                      p.mb-4 Este tipo de máquina es empujada u operada manualmente por el encargado de esta función, se mueve la cortadora dentro del tendido, dejando las piezas separadas; el cambio de las cuchillas lo realiza el mismo operario, las cuchillas de estas máquinas vienen en longitudes de 4”, 6”, 8”, 10” (pulgadas). El material sobrante de tela que no corresponde a piezas que se van a confeccionar se llama retal, y hace parte del desperdicio.
+              .row.justify-content-center
+                .col-lg-11
+                  .tarjeta-avatar-b.mb-4
+                    img.iconV(src='@/assets/curso/tema5/img08.png' alt='AvatarTop')
+                    .tarjeta.color-acento-contenido-punteado.p-0
+                      .row.p-0
+                        .col-2
+                        .col-lg-10.mb-4
+                          .tarjeta.color-acento-contenido-punteado.p-0
+                            .tarjeta.color-acento-contenido.p-3
+                              .h4.text-white Cortadoras de cuchilla vertical
+                      .row.justify-content-center
+                        .col-lg-10.mb-4
+                          p.mb-4 Máquina eléctrica, provista de una cuchilla ubicada de manera vertical, que al activarla realiza un movimiento perpendicular y que le permite al empujarla avanzar, cortando las telas extendidas y permitiendo que las piezas queden sueltas para clasificarlas, y luego pasar a ensamblarlas, esta viene provista de unas cintas afiladoras que son intercambiables y que sirven al activarlas, para mantener la capacidad de corte en óptimas condiciones.
+                          p.mb-4 Este tipo de máquina es empujada u operada manualmente por el encargado de esta función, se mueve la cortadora dentro del tendido, dejando las piezas separadas; el cambio de las cuchillas lo realiza el mismo operario, las cuchillas de estas máquinas vienen en longitudes de 4”, 6”, 8”, 10” (pulgadas). El material sobrante de tela que no corresponde a piezas que se van a confeccionar se llama retal, y hace parte del desperdicio.
 
-              .tarjeta-avatar-b.mb-5
-                img.iconV(src='@/assets/curso/tema5/img09.png' alt='AvatarTop')
-                .tarjeta.color-white-punteado.p-0
-                  .row.p-0
-                    .col-2
-                    .col-lg-10.mb-4
-                      .tarjeta.color-white-punteado.p-0
-                        .tarjeta.color-secundario.p-3
-                          h4.text-white Cortadora manual profesional
-                  .row.justify-content-center
-                    .col-lg-10.mb-4
-                      p La fuente de su energía son baterías, se acciona de manera manual, no tiene la misma potencia que la eléctrica, sirve para cortar lotes de pocas unidades
+                  .tarjeta-avatar-b.mb-5
+                    img.iconV(src='@/assets/curso/tema5/img09.png' alt='AvatarTop')
+                    .tarjeta.color-white-punteado.p-0
+                      .row.p-0
+                        .col-2
+                        .col-lg-10.mb-4
+                          .tarjeta.color-white-punteado.p-0
+                            .tarjeta.color-secundario.p-3
+                              h4.text-white Cortadora manual profesional
+                      .row.justify-content-center
+                        .col-lg-10.mb-4
+                          p La fuente de su energía son baterías, se acciona de manera manual, no tiene la misma potencia que la eléctrica, sirve para cortar lotes de pocas unidades
 
-              .tarjeta-avatar-b.mb-5
-                img.iconV(src='@/assets/curso/tema5/img10.png' alt='AvatarTop')
-                .tarjeta.color-acento-botones-punteado.p-0
-                  .row.p-0
-                    .col-2
-                    .col-lg-10.mb-4
-                      .tarjeta.color-acento-botones-punteado.p-0
-                        .tarjeta.color-acento-botones.p-3
-                          h4.text-white Corte sin fin
-                  .row.justify-content-center
-                    .col-lg-10.mb-4
-                      p En el caso de utilizar este tipo de máquina hay que tener en cuenta que es una máquina fija, inmóvil, estática y que el que se mueve es el tejido, se utiliza para cortes rectos, al empujar el material se le va dando la forma deseada, siguiendo las líneas del trazo.
-                      p El tiempo que se emplea es mínimo, se pueden cortar grandes bloques de material, y hay seguridad en la relación útil de corte y materiales.
+                  .tarjeta-avatar-b.mb-5
+                    img.iconV(src='@/assets/curso/tema5/img10.png' alt='AvatarTop')
+                    .tarjeta.color-acento-botones-punteado.p-0
+                      .row.p-0
+                        .col-2
+                        .col-lg-10.mb-4
+                          .tarjeta.color-acento-botones-punteado.p-0
+                            .tarjeta.color-acento-botones.p-3
+                              h4.text-white Corte sin fin
+                      .row.justify-content-center
+                        .col-lg-10.mb-4
+                          p En el caso de utilizar este tipo de máquina hay que tener en cuenta que es una máquina fija, inmóvil, estática y que el que se mueve es el tejido, se utiliza para cortes rectos, al empujar el material se le va dando la forma deseada, siguiendo las líneas del trazo.
+                          p El tiempo que se emplea es mínimo, se pueden cortar grandes bloques de material, y hay seguridad en la relación útil de corte y materiales.
 
       separador
       #t_5_1.titulo-segundo
@@ -264,23 +266,42 @@
         p.mb-4 A continuación, se definen algunas recomendaciones para garantizar la calidad en las secciones que realizan actividades de corte:
 
         .row
-          .col-lg-6.mb-4.mb-lg-0
+          .col-lg-5.mb-4.mb-lg-0
             img(src='@/assets/curso/tema5/img12.png')
-          .col-lg-6.mb-4.mb-lg-0
-            br
-            p.mb-3 Al recibir las telas asegurarse de tener claro:  el nombre de la tela, la cantidad, para qué lotes está destinada, dónde y cómo se va a almacenar, etc.
-            br
-            br
-            p.mb-4 Si las telas necesitan reposo previo, ejecutarlo.
-            br
-            p.mb-4 Al extender identificar las posibles irregularidades de la tela, proceder a marcarlas para luego reponer la pieza o cortar y sacar ese daño.
-            br
-            p.mb-4 Cuando se está cortando poner mucho cuidado con los “vencimientos de las telas”, con la posición y profundidad de los piquetes.
-            p.mb-2 Al momento de tiquetear debe tener en cuenta no colocar el tiquete donde van a ir costuras o piezas como tapas, bolsillos traseros, charreteras o pretinas, se recomienda etiquetar por el derecho de la tela para que cuando se vaya construyendo la prenda no quede escondida.
-            p.mb-2 Al amarrar las piezas se recomienda juntar las piezas iguales, por ejemplo, todas las aletillas juntas, todas las relojeras juntas, todos los bolsillos juntos, etc., ya que la primera operación que se hace en las plantas es precisamente juntar las piezas iguales para cargarlas a las máquinas con lo que se gana tiempo.
-            p.mb-4 Al ingresar los lotes a las plantas hacer entrega de toda la información y elementos que se tengan, adicional hacer una remisión en la que se especifique: corte, referencia, cantidades por talla, etc.
-            p.mb-4 Los pasadores deben venir cortados a la medida que el cliente los necesita, no de otra, ya que esto lleva a afinarlos, en lo posible enviar un retazo para posibles reposiciones.
-
+          .col-lg-7.mb-4.mb-lg-0
+            .row
+              .col-2.mb-2
+                img(src='@/assets/curso/tema5/img13.svg')
+              .col-10
+                p.mb-3 Al recibir las telas asegurarse de tener claro:  el nombre de la tela, la cantidad, para qué lotes está destinada, dónde y cómo se va a almacenar, etc.
+              .col-2.mb-2
+                img(src='@/assets/curso/tema5/img14.svg')
+              .col-10 
+                p.mb-4 Si las telas necesitan reposo previo, ejecutarlo.
+              .col-2.mb-2
+                img(src='@/assets/curso/tema5/img15.svg')
+              .col-10
+                p.mb-4 Al extender identificar las posibles irregularidades de la tela, proceder a marcarlas para luego reponer la pieza o cortar y sacar ese daño.
+              .col-2.mb-2
+                img(src='@/assets/curso/tema5/img16.svg')
+              .col-10
+                p.mb-4 Cuando se está cortando poner mucho cuidado con los “vencimientos de las telas”, con la posición y profundidad de los piquetes.
+              .col-2.mb-2
+                img(src='@/assets/curso/tema5/img17.svg')
+              .col-10
+                p.mb-2 Al momento de tiquetear debe tener en cuenta no colocar el tiquete donde van a ir costuras o piezas como tapas, bolsillos traseros, charreteras o pretinas, se recomienda etiquetar por el derecho de la tela para que cuando se vaya construyendo la prenda no quede escondida.
+              .col-2.mb-2
+                img(src='@/assets/curso/tema5/img18.svg')
+              .col-10
+                p.mb-2 Al amarrar las piezas se recomienda juntar las piezas iguales, por ejemplo, todas las aletillas juntas, todas las relojeras juntas, todos los bolsillos juntos, etc., ya que la primera operación que se hace en las plantas es precisamente juntar las piezas iguales para cargarlas a las máquinas con lo que se gana tiempo.
+              .col-2.mb-2
+                img(src='@/assets/curso/tema5/img19.svg')
+              .col-10
+                p.mb-4 Al ingresar los lotes a las plantas hacer entrega de toda la información y elementos que se tengan, adicional hacer una remisión en la que se especifique: corte, referencia, cantidades por talla, etc.
+              .col-2.mb-2
+                img(src='@/assets/curso/tema5/img20.svg')
+              .col-10
+                p.mb-4 Los pasadores deben venir cortados a la medida que el cliente los necesita, no de otra, ya que esto lleva a afinarlos, en lo posible enviar un retazo para posibles reposiciones.
 </template>
 
 <script>
