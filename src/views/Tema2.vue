@@ -79,7 +79,7 @@
                     p.mb-4 Se le da la medida del ancho de la tela y las cantidades de tallas a dibujar, lo que significa una proporción. El programa con esa información procede a elaborar el trazo con criterios de cumplir las órdenes que se le dieron, procurando el mejor uso del recurso tela y evitando el desperdicio; este sistema es mucho más rápido que el manual, y la información y patrones o moldes permanecen mejor guardados sin peligro de pérdidas y deterioros.
                   .col-md-4.mb-4.mb-md-0
                     img(src='@/assets/curso/tema2/img12.png')
-                .row.justify-content-center
+                .row.justify-content-center.p-5
                   .col-md-6.mb-4.mb-md-0
                     .h4 Trazo sistematizado
                     p Este sistema también es más ágil cuando se trata de buscar información que tenga que ver con moldes, trazos anteriores y/o verificar piezas con las que se tienen dudas. Luego de tener este trazo de manera digital se envía esta información a un plotter para que imprima el trazo y sea llevado a la sala de corte.  En el mercado hay ofertas de software que permiten sistematizar las actividades de trazo y mejorar su relación con materiales, uso del tiempo y respuesta óptima a necesidades actuales del sector. 

@@ -381,6 +381,46 @@ export default {
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
+      {
+        nombre: 'Pedro Luis Sossa Ramírez',
+        cargo: 'Experto temático',
+        centro:
+          'Regional Antioquia - Centro de Formación en Diseño, Confección y Moda',
+      },
+      {
+        nombre: 'Liliana María Ceballos Gutiérrez',
+        cargo: 'Diseño y desarrollo curricular',
+        centro:
+          'Regional Antioquia - Centro de Formación en Diseño, Confección y Moda',
+      },
+      {
+        nombre: 'Erika Blanco',
+        cargo: 'Experta temática',
+        centro:
+          'Regional Antioquia - Centro de Formación en Diseño, Confección y Moda',
+      },
+      {
+        nombre: 'Catherine Bedoya',
+        cargo: 'Diseñadora instruccional',
+        centro: 'Regional Distrito Capital – Centro de Gestión industrial',
+      },
+      {
+        nombre: 'Liliana Morales',
+        cargo: 'Revisión pedagógica y metodológica',
+        centro:
+          'Regional Distrito Capital – Centro para la Industria de la Comunicación Gráfica',
+      },
+      {
+        nombre: 'Vilma Lucia Perilla',
+        cargo: 'Revisión pedagógica y metodológica',
+        centro: 'Centro de Gestión Industrial - Regional Distrito Capital',
+      },
+      {
+        nombre: 'Julia Isabel Roberto',
+        cargo: 'Diseñadora y evaluadora instruccional',
+        centro:
+          'Regional Distrito Capital – Centro para la Industria de la Comunicación Gráfica',
+      },
     ],
     desarrolloProducto: [
       {
@@ -395,25 +435,35 @@ export default {
         centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
       {
-        nombre: ['Nombre 1', 'Nombre 2'],
+        nombre: 'Oscar Julian Marquez Sanabria',
         cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Diego Fernando Velasco Güiza',
         cargo: 'Desarrollo Front-End',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: [
+          'Zuleidy Maria Ruiz Torres',
+          'Wilson Andrés Arenales Caceres',
+          'Gilberto Junior Rodriguez Rodriguez',
+          'Lina Marcela Perez Manchego',
+          'María Carolina Tamayo Lopez',
+          'Ángela María Maldonado Jaime',
+          'Jessica Moreno Realpe',
+          'Adriana Marcela Suárez Eljure',
+          'Laura Gisselle Murcia Pardo',
+        ],
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Veimar Celis Melendez',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',

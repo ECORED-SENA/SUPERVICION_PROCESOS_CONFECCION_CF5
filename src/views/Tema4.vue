@@ -66,7 +66,7 @@
 
     .tarjeta.tarjeta--azul.p-4.mb-5
       SlyderA
-        .row.justify-content-center
+        .row.justify-content-center.p-5
           .col-md-7.mb-4.mb-md-0
             .h4 Extendido manual
             p Inicialmente se marca el inicio y el final del trazo para saber desde y hasta donde se deben extender las telas; en un extremo de la mesa se debe colocar el rollo a extender, sostenido sobre un pedestal o mueble y que le permita su desenrolle, normalmente esta actividad la realizan dos operarios, uno a cada lado de la mesa, agarran y llevan una punta de la tela a cada extremo y se desplazan hasta donde está la marca del fin del trazo, ellos deben vigilar que la tela que están extendiendo no presente defectos como roturas, marras, imperfectos, etc., y proceder a marcarlos para luego ponerlos, o de acuerdo con el tamaño proceder a retirar ese tramo de tela que no sirve para construir prendas de vestir, y así evitar un reproceso más adelante, o tener que asumir una prenda de segunda; existen grados de tolerancia de acuerdo con las políticas de calidad de la empresa, que se consideran antes de tomar decisiones en este aspecto. 
@@ -74,7 +74,7 @@
             hr
             img(src='@/assets/curso/tema4/img07.png')
         
-        .row.justify-content-center
+        .row.justify-content-center.p-5
           .h4 Extendido manual
           p Al terminar de devolverse los operarios, cada uno alrededor de la mesa revisando la calidad del extendido y de la tela, y cuidando el buen uso del tiempo, proceden a cortar la tela en el extremo de la mesa por donde iniciaron, para eso utilizan un útil de corte como bisturí o cuchilla, o tijeras.
           .col-md-7.mb-4.mb-md-0
@@ -82,14 +82,14 @@
           .col-md-4.mb-4.mb-md-0
             img(src='@/assets/curso/tema4/img08.png')
 
-        .row.justify-content-center
+        .row.justify-content-center.p-5
           .col-md-7.mb-4.mb-md-0
             .h4 Extendido con carro
             p Extendido basado en un carro transportador del rollo de la tela, el cual tiene un accesorio donde se ubica el rollo o donde se coloca la tela, y por medio de ruedas ubicadas en un extremo de la mesa y en un carril ubicado en el otro extremo de la mesa se hace deslizar la tela sobre la mesa, cumpliendo especificaciones del trazo. El que hace que el carrito se mueva sigue siendo el operario.
           .col-md-4.mb-4.mb-md-0
             img(src='@/assets/curso/tema4/img09.png')
 
-        .row.justify-content-center
+        .row.justify-content-center.p-5
           .col-md-7.mb-4.mb-md-0
             .h4 Extendido automatizado
             p En la actualidad la oferta de equipos para las áreas de trazo y corte son abundantes y con el avance de tecnologías 4.0, las alternativas son muchas; por medio de equipos que realizan de manera rápida y bien hecha la actividad de extendido se han beneficiado las empresas del sector moda. Son equipos que permiten colocar el rollo y ellos previa programación digital se encargan de desplazarse hasta a distancia correcta (largo del trazo), cortar el largo del tendido y en las cantidades que se le programó.

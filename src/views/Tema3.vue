@@ -15,14 +15,13 @@
             :style="{'background-image': `url(${require('@/assets/curso/tema3/img01.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-4 Saber aprovechar de la manera adecuada los recursos de que se dispone en el área de trazo y corte es importante para poder cumplir cabalmente con los propósitos y proyectos. Se hace referencia a un área en metros cuadrados (m2), a unas dimensiones de las mesas, al número de personas, a los horarios de trabajo, a las máquinas, a las herramientas y a las materias primas e insumos, como se muestra a continuación.
+            p.mb-4 Saber aprovechar de la manera adecuada los recursos de que se dispone en el área de trazo y corte es importante para poder cumplir cabalmente con los propósitos y proyectos. Se hace referencia a un área en metros cuadrados (m&sup2;), a unas dimensiones de las mesas, al número de personas, a los horarios de trabajo, a las máquinas, a las herramientas y a las materias primas e insumos, como se muestra a continuación.
       .col-lg-10.mb-4
         .bloque-texto-b.color-acento-contenido.p-4
           .bloque-texto-b__texto
             .row.align-items-center.mb-4
               .col-lg-4.mb-4.mb-lg-0
                 .titulo-sexto.color-acento-contenido
-                  h5 Figura 8
                   p Corte industrial
                 img(src='@/assets/curso/tema3/img02.png')
               .col-lg-6.mb-4.mb-lg-0
@@ -56,7 +55,7 @@
           
           .h4 Capacidad instalada de área
           p.mb-4 Uno de los elementos a tener en cuenta para calcular la capacidad de unidades que se pueden cortar es conocer el área que se dispone para realizar las actividades de trazo y corte. Dimensionar esa área ayuda a distribuir los puestos de trabajo.
-          p.mb-4 Para establecer esta capacidad de producción por m2 es importante:
+          p.mb-4 Para establecer esta capacidad de producción por m&sup2; es importante:
 
           .tarjeta.tarjeta--azul.p-4.mb-5
             SlyderA
@@ -246,7 +245,6 @@
                     p.mb-4 Consiste en colocar adhesivos a las piezas ya cortadas, el adhesivo lleva información importante como # corte, talla, consecutivo, entre otros, y ayuda a identificar operaciones y ubicación de lotes; es fundamental para el seguimiento de la producción en la planta, igualmente, facilita al momento de ensamblar  las piezas que las prendas de vestir no presenten tonalidades, y de esta manera evitar en las plantas de producción que se mezclen  los diferentes lotes de producción, cobrando importancia este proceso en la cadena de producción. Un ejemplo a continuación:
                   .col-md-3.mb-4.mb-md-0
                     .titulo-sexto.color-acento-contenido.mb-2
-                      h5 Figura 10
                       p Tiqueteado
                     img(src='@/assets/curso/tema3/img19.png')
 
