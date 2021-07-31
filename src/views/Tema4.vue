@@ -24,7 +24,6 @@
             img(src='@/assets/curso/tema4/img02.svg')
           .col-lg-6.mb-4.mb-lg-0
             .titulo-sexto.color-acento-contenido
-              h5 Figura 12
               p Extendido de tela
             img(src='@/assets/curso/tema4/img03.png')
 

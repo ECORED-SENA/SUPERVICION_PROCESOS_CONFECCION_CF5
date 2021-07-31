@@ -64,23 +64,23 @@
 
     .row
       .col-lg-5.mb-4.mb-lg-4
-        a.anexo.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+        a.anexo.mb-4(:href="obtenerLink('/downloads/Ley1562de2012.pdf')" target="_blank")
           .anexo__icono
-            img(src="@/assets/template/icono-link.svg")
+            img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
             p
               strong Ley 1562 del 2012. 
               | Por la cual se modifica el sistema de riesgos laborales y se dictan otras disposiciones en materia de salud.
       .col-lg-5.mb-4.mb-lg-4
-        a.anexo.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+        a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/embed/mbJvti9qHOU" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto
             strong Video seguridad e higiene en el trabajo.
       .col-lg-5.mb-4.mb-lg-4
-        a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/embed/mbJvti9qHOU" target="_blank")
+        a.anexo.mb-4.mb-lg-0(href="https://www.mintrabajo.gov.co/documents/20147/45099/Resolucion06045_Mintrabajo_2.pdf/2135dd03-f30f-caa7-111f-e9f21f898f61" target="_blank")
           .anexo__icono
-            img(src="@/assets/template/icono-link.svg")
+            img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
             p
               strong Resolución 060 del 2014. 

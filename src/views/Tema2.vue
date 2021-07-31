@@ -130,7 +130,6 @@
           .row.justify-content-center.mb-4
             .col-md-10.mb-4.mb-md-0
               .titulo-sexto.color-acento-contenido
-                h5 Figura 1
                 p Elementos trazo manual
               img(src='@/assets/curso/tema2/img14.png')
       .col-md.tarjeta.color-secundario.p-0
@@ -152,7 +151,6 @@
           .row.justify-content-center.mb-4
             .col-md-10.mb-4.mb-md-0
               .titulo-sexto.color-acento-contenido
-                h5 Figura 2
                 p Plotter trazo sistematizado
               img(src='@/assets/curso/tema2/img15.png')
 
@@ -166,7 +164,6 @@
         p.mb-4 La proporción del ancho con respecto al largo se sugiere que sea de 1 a 2, si se dispone de un área que no cumpla estos principios, se hace un dibujo del área y se ubicaran los puestos de trabajo necesarios para ejecutar las labores de corte, extendida y alistamiento, de acuerdo con el área disponible, es decir, con los metros cuadrados se puede determinar la capacidad instalada para entregar piezas cortadas, tal como se muestra en la siguiente figura.
       .col-md-6.mb-4.mb-md-0
         .titulo-sexto.color-acento-contenido
-          h5 Figura 3
           p Ejemplo de área de corte y ubicación de mesas
         img(src='@/assets/curso/tema2/img16.svg')
     
@@ -177,7 +174,6 @@
             .col-md-10.mb-4.mb-md-0
               p.mb-4 El tipo de prenda que se va a producir y las cantidades esperadas ayudan a definir también qué dimensiones deben tener las áreas de trabajo. Si el tipo de prenda es pequeño, los moldes o patrones también serán pequeños: ropa interior, vestidos de baño, fajas, pañoletas, etc., no será necesaria un área muy grande y, si los lotes de producción son pequeños de acuerdo con las características de la organización, los largos de los trazos también pueden ser pequeños, y por supuesto las mesas de extendido y corte serán pequeñas, como se muestra en la siguiente figura.
               .titulo-sexto.color-acento-contenido
-                h5 Figura 2
                 p Plotter trazo sistematizado
               .row
                 .col-md-6.d-flex.mb-4.mb-md-0
@@ -214,9 +210,12 @@
               p.mb-4 Una de las entradas importantes para registrar, planear y programar actividades en el corte es la información que viene en documentos como:
               strong Fichas técnicas: 
               | en este documento viene especificado el molde que se va a utilizar en el trazo, un dibujo de la silueta, la tela principal y las telas complementarias, y demás observaciones que vienen desde el departamento de diseño, y que consideran son necesarias para trabajar en el área de trazo y corte.  
-            .col-md-10
-              figure
-                img(src='@/assets/curso/tema2/img20.png')
+            .col-md-6
+              a.anexo.mb-4(:href="obtenerLink('/downloads/ORDEN_DE_PRODUCCION.pdf')" target="_blank")
+                .anexo__icono
+                  img(src="@/assets/template/icono-pdf.svg")
+                .anexo__texto
+                  p Orden de producción.
           .row.justify-content-center(numero="2" titulo="Orden de corte o de producción")
             .col-md-12.mb-4.mb-md-0
               p.mb-4 Toda la información que tiene que ver con cantidades totales programadas, por tallas, por color vienen en este documento, adicional la fecha de programación y de proyección de la entrega más unos espacios en los que se elaborará la liquidación de corte. De acuerdo con la naturaleza, tamaño y políticas de la empresa, la programación y la liquidación de corte se hacen en documentos distintos o en el mismo formato. 
@@ -297,7 +296,6 @@
       .row.justify-content-center.p-4
         .col-md-3.mb-4.mb-md-0
           .titulo-sexto.color-acento-contenido
-            h5 Figura 5
             p Almacenamiento inadecuado
           img(src='@/assets/curso/tema2/img26.png')
         .col-md-7.mb-4.mb-md-0
@@ -310,7 +308,6 @@
       .row.justify-content-center.p-4
         .col-md-3.mb-4.mb-md-0
           .titulo-sexto.color-acento-contenido
-            h5 Figura 6
             p Bodega de telas
           img(src='@/assets/curso/tema2/img27.png')
         .col-md-7.mb-4.mb-md-0
@@ -355,7 +352,6 @@
             .row.align-items-center.p-4
               .col-md-4.mb-4.mb-md-0
                 .titulo-sexto.color-acento-contenido
-                  h5 Figura 7
                   p Telas
                 img(src='@/assets/curso/tema2/img28.png')
               .col-md-8.mb-4.mb-md-0

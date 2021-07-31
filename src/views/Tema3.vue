@@ -259,7 +259,6 @@
                     p.mb-4 Los paquetes amarrados deben de ir bien sujetos o embalados para evitar pérdidas de piezas y marcados para facilitar su identificación.  En algunas ocasiones se les debe anexar insumos, plantillas, moldes, entre otros, como se ilustra en la siguiente figura.
                   .col-md-3.mb-4.mb-md-0
                     .titulo-sexto.color-acento-contenido
-                      h5 Figura 11
                       p Paquetes para proceso
                     img(src='@/assets/curso/tema3/img20.png')
 
