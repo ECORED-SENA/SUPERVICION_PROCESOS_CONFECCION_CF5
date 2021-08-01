@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Trazo y corte',
     descripcionCurso:
-      'En toda la cadena de aprisionamiento de prendas de vestir la actividad de trazo y corte tiene un valor fundamental, los conocimientos básicos de este proceso y el buen manejo de los materiales y demás recursos permitirán que los proyectos tengan un excelente desarrollo. Por eso, en este componente se realizará un recorrido por las generalidades, tipos, planeación y herramientas de trazo y corte, como también se abordarán elementos de salud ocupacional y normas de seguridad industrial.',
+      'En toda la cadena de alistamiento de prendas de vestir la actividad de trazo y corte tiene un valor fundamental, los conocimientos básicos de este proceso y el buen manejo de los materiales y demás recursos permitirán que los proyectos tengan un excelente desarrollo. Por eso, en este componente se realizará un recorrido por las generalidades, tipos, planeación y herramientas de trazo y corte, como también se abordarán elementos de salud ocupacional y normas de seguridad industrial.',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
   },
