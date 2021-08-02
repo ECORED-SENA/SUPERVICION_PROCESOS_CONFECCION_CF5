@@ -128,7 +128,7 @@
                 ul
                   li 
                     i.fas.fa-angle-right
-                    | Mordería.
+                    | Moldería.
                   li 
                     i.fas.fa-angle-right
                     | Tejidos solicitados, principales y complementarios.
